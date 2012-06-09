@@ -1,4 +1,0 @@
-RiceNookSensors
-===============
-
-RNS
