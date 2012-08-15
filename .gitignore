@@ -2,6 +2,10 @@
 *.slo
 *.lo
 *.o
+*.cproject
+*.project
+*.obj
+*.prefs
 
 # Compiled Dynamic libraries
 *.so
