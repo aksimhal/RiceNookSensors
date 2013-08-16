@@ -1,0 +1,3 @@
+echo Updating DB...
+wget -O - http://rice-env.elasticbeanstalk.com/update2.php
+echo Finished!
